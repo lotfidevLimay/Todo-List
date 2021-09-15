@@ -1,0 +1,6 @@
+module Pods_nexity_to_list {
+  umbrella header "Pods-nexity_to_list-umbrella.h"
+
+  export *
+  module * { export * }
+}

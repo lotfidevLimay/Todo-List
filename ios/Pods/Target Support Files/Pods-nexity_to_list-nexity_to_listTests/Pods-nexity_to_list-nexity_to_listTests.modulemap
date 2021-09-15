@@ -1,0 +1,6 @@
+module Pods_nexity_to_list_nexity_to_listTests {
+  umbrella header "Pods-nexity_to_list-nexity_to_listTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
